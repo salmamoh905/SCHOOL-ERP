@@ -1,0 +1,19 @@
+{
+  "name": "school-erp",
+  "version": "1.0.0",
+  "description": "this is a Akeo-School erp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmamoh905/SCHOOL-ERP.git"
+  },
+  "author": "salma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmamoh905/SCHOOL-ERP/issues"
+  },
+  "homepage": "https://github.com/salmamoh905/SCHOOL-ERP#readme"
+}
